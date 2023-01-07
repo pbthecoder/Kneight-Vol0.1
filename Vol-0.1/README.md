@@ -28,7 +28,6 @@ x and y define the x and y. For some reason, it always starts at the top corner.
 If you can fix it, I would be happy. 
 
 cImg = pygame.image.load('Kneight200x200pix.png')
-bg = pygame.image.load("BGKneight'sPath.png")
 win.blit(cImg, (0,0))
 
 It is called cImg as a test. I wanted to use something very, very easy to type just in case of error. 
