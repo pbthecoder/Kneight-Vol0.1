@@ -9,7 +9,7 @@ This will be updated when I update code sucessfully.
 
 I made all the art, and the code only borrows some basic knowledge such as pygame.init from other repositaries I have. 
 
-Please use this in your game-creating experience. 
+Please use this in your game-creating experience. It is very free. If you were creating games and did not know how to fix the problem of arrow-key walking, here's some help.
 
 Thanks to Github, Stack Overflow, Jupyter Notebook, and Scratch. 
 
@@ -30,3 +30,6 @@ I still exist.
 :
 
 :)
+
+
+If you have any problems running the code, please contact me on github. 
