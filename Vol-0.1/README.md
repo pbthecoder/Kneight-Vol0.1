@@ -31,7 +31,7 @@ cImg = pygame.image.load('Kneight200x200pix.png')
 win.blit(cImg, (0,0))
 
 It is called cImg as a test. I wanted to use something very, very easy to type just in case of error. 
-It draws the basic images, and BGKneight's Path does not work, unfortunately. 
+It draws the basic images. 
 It will be replaced. 
 
 while run:
