@@ -31,5 +31,6 @@ I still exist.
 
 :)
 
+To download files, go to the repositary and click "code". Then press "Download ZIP", and it will be saved. Then, right-click your file on the bottom of your screen and press "Show in Folder". It will show the location. Rename or move it if you want. 
 
 If you have any problems running the code, please contact me on github. 
