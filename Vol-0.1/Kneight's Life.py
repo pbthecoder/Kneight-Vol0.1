@@ -15,7 +15,6 @@ vel = 5
 
 run = True
 cImg = pygame.image.load('Kneight200x200pix.png')
-bg = pygame.image.load("BGKneight'sPath.png")
 win.blit(cImg, (0,0))
 while run:
     pygame.time.delay(100)
